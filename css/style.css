@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-image: url("../images/1.jpg");
+}
+
+#bigBox{
+    margin: 0 auto;
+    margin-top: 250px;
+    padding: 20px 50px;
+    width: 400px;
+    height: 300px;
+    background-color: #00000090;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#bigBox h1{
+    color: white;
+}
+
+#bigBox .inputBox{
+    margin-top: 50px;
+}
+
+#bigBox .inputBox .inputText{
+    margin-top: 20px;
+}
+
+#bigBox .inputBox .inputText a{
+    font-size: 12px;
+    line-height: 25px;
+    color: #36d1ff;
+}
+
+#bigBox .inputBox .inputText a:hover{
+    color: white;
+}
+
+#bigBox .inputBox .inputText span{
+    color: white;
+}
+
+#bigBox .inputBox .inputText input{
+    border: 0;
+    padding: 10px;
+    border-bottom: 1px solid white;
+    background-color: #00000000;
+    color: white;
+}
+
+#bigBox .inputBox .inputButton{
+    border: 0;
+    width: 150px;
+    height: 25px;
+    color: white;
+    margin-left: 110px;
+    margin-top: 15px;
+    border-radius: 20px;
+    background-color: #FA8BFF;
+    background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
+    line-height: 5px;
+}

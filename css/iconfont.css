@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('../font/iconfont.ttf?t=1629598899071') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-youxiangtubiao:before {
+  content: "\e606";
+}
+
+.icon-denglutubiao:before {
+  content: "\e66c";
+}
+
+.icon-dianhuatubiao:before {
+  content: "\e6b4";
+}
+
+.icon-denglu_tubiao_mima:before {
+  content: "\e6c0";
+}
+
